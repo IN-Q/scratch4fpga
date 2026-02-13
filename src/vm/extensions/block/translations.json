@@ -1,0 +1,14 @@
+{
+  "en": {
+    "scratch4fpga.name": "scratch4fpga",
+    "scratch4fpga.doIt": "do it [SCRIPT]"
+  },
+  "ja": {
+    "scratch4fpga.name": "scratch4fpga",
+    "scratch4fpga.doIt": "[SCRIPT] を実行する"
+  },
+  "ja-Hira": {
+    "scratch4fpga.name": "scratch4fpga",
+    "scratch4fpga.doIt": "[SCRIPT] をじっこうする"
+  }
+}

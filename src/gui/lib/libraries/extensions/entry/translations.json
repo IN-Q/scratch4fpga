@@ -1,0 +1,14 @@
+{
+  "en": {
+    "scratch4fpga.entry.name": "scratch4fpga",
+    "scratch4fpga.entry.description": "Description of this extension"
+  },
+  "ja": {
+    "scratch4fpga.entry.name": "scratch4fpga",
+    "scratch4fpga.entry.description": "拡張機能の説明"
+  },
+  "ja-Hira": {
+    "scratch4fpga.entry.name": "scratch4fpga",
+    "scratch4fpga.entry.description": "かくちょうきのうのせつめい"
+  }
+}
